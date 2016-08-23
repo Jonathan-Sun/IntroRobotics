@@ -1,0 +1,1 @@
+Journal Stuff8/23: Today we learnt about how to install GIT into our computers. We also learnt about VCS and a bit of commands on GIT. 
